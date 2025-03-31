@@ -1,0 +1,21 @@
+body{
+    background-image:url(../images/SL-121021-47240-13.jpg);
+    color: azure;
+    text-align: center;
+    background-size: cover;
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 60px;
+    margin-top: 50px;
+}
+a{
+    font-size: 28px;
+    color: rgb(255, 255, 255);
+}
+footer{
+    position: fixed;
+    bottom: 8px;
+    text-align: center;
+}
+

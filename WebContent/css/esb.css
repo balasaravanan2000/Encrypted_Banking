@@ -1,0 +1,49 @@
+body{
+    text-align: center;
+    font-size: 25px;
+    background-image: url(../images/SL-121021-47240-13.jpg);
+    background-size: cover;
+    color: rgb(255, 255, 255);
+    margin-top: 75px;
+}
+input{
+    width: 200px;
+    height: 25px;
+    padding: 5px;
+    border-radius:4px;
+    border-color: rgb(255, 255, 255);
+    text-align:center;
+    
+}
+input[type=text]{
+    color:rgb(20, 20, 20);
+    text-align:center;
+
+}
+input[type=submit]{
+    color:rgb(20,20,20);
+    border-color: rgb(169, 170, 170);
+    width: 100px;
+    height: 25px;
+    padding: 5px;
+    background-color: rgb(129, 182, 250);
+    text-align:center;
+}
+
+
+a{
+    color: azure;
+    font-size: smaller;
+}
+div{
+    position: absolute;
+    top: 8px;
+    left: 10px;
+}
+footer{
+    font-size: 20px;
+    position:absolute;
+    bottom: 8px;
+    text-align: center;
+}
+
